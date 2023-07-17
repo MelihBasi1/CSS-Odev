@@ -1,0 +1,37 @@
+
+.box1{
+    width: 351px;
+    height: 113px;
+}
+
+.margin1{
+            margin:200px 0px 0px 600px;
+    
+}
+
+.margin2{
+            margin: 0px 0px 10px 600px;
+}
+
+.margin3{
+            margin: 0px 0px 0px 675px;
+}
+
+.margin4{
+    margin: -20px 0px 0px 800px;
+}
+ 
+input[type="text"] {
+    height: 20px;
+    width: 350px;
+  }
+
+
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-green{
+    background-color: green;
+}
